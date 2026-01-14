@@ -12,6 +12,7 @@
 
 ### 📈 Objetivos para 2026:
 - [ ] 🎓 **Concluir a graduação em ADS (Julho/2026).**
-- [ ] Concluir o curso **Desenvolvedor Full Stack ** (Matheus Fraga) 
-- [ ] Criar meus primeiros projetos Full Stack com Banco de Dados.
-- [ ] Conseguir minha primeira oportunidade profissional na área de tecnologia.
+- [ ] 👨‍💻 Concluir o curso **Desenvolvedor Full Stack** (Matheus Fraga).
+- [ ] 🗄️ Criar meus primeiros projetos Full Stack com Banco de Dados.
+- [ ] 🚀 Conseguir minha primeira oportunidade profissional na área de tecnologia.
+- [ ] 🏆 Manter o gráfico do GitHub sempre verde!
