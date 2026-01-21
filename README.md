@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Larré! 👋
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em me tornar um Desenvolvedor Full Stack de elite. Estou em constante evolução através de projetos práticos no ecossistema JavaScript.
+Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em me tornar um Desenvolvedor Full Stack. Estou em constante evolução através de projetos práticos no ecossistema JavaScript.
 
 ## 🚀 Sobre mim
 - 🎓 Cursando ADS na UniCesumar (Previsão: 07/2026).
