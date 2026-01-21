@@ -1,18 +1,29 @@
-# Olá, eu sou o Felipe Larre! 👋
+# Olá, eu sou o Felipe Larré! 👋
 
-### 👨‍💻 Sobre mim
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** - Previsão de conclusão em 07/2026.
-- 🚀 Estudando para me tornar um Desenvolvedor Full Stack.
-- 🎓 Atualmente focado em dominar **JavaScript**, **TypeScript** e **Node.js**.
+Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em me tornar um Desenvolvedor Full Stack de elite. Estou em constante evolução através de projetos práticos no ecossistema JavaScript.
 
-### 🛠 Tecnologias que estou aprendendo:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+## 🚀 Sobre mim
+- 🎓 Cursando ADS na UniCesumar (Previsão: 07/2026).
+- 💻 Desenvolvendo projetos Full Stack com React, Node.js e Next.js.
+- 📱 Explorando o desenvolvimento mobile com React Native.
+- 🎯 Em busca da primeira oportunidade como Desenvolvedor.
 
-### 📈 Objetivos para 2026:
-- [ ] 🎓 **Concluir a graduação em ADS (Julho/2026).**
-- [ ] 👨‍💻 Concluir o curso **Desenvolvedor Full Stack** (Matheus Fraga).
-- [ ] 🗄️ Criar meus primeiros projetos Full Stack com Banco de Dados.
-- [ ] 🚀 Conseguir minha primeira oportunidade profissional na área de tecnologia.
-- [ ] 🏆 Manter o gráfico do GitHub sempre verde!
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Banco de Dados & Ferramentas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-larr%C3%A9/)
