@@ -6,7 +6,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em me 
 - 🎓 Cursando ADS na UniCesumar (Previsão: 07/2026).
 - 💻 Desenvolvendo projetos Full Stack com React, Node.js e Next.js.
 - 📱 Explorando o desenvolvimento mobile com React Native.
-- 🎯 Em busca da primeira oportunidade como Desenvolvedor.
+- 🎯 Em busca da primeira oportunidade como Desenvolvedor para aplicar meus conhecimentos e resolver problemas reais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -27,3 +27,4 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em me 
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-larr%C3%A9/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.larre7@gmail.com)
