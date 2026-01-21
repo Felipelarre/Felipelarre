@@ -4,7 +4,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em me 
 
 ## 🚀 Sobre mim
 - 🎓 Cursando ADS na UniCesumar (Previsão: 07/2026).
-- 💻 Desenvolvendo projetos Full Stack com React, Node.js e Next.js.
+- 💻 Desenvolvendo aplicações com Node.js, React e Next.js.
 - 📱 Explorando o desenvolvimento mobile com React Native.
 - 🎯 Em busca da primeira oportunidade como Desenvolvedor para aplicar meus conhecimentos e resolver problemas reais.
 
