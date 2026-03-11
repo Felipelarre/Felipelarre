@@ -6,10 +6,10 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em me 
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando ADS na UniCesumar (Previsão: 07/2026).
-- ☕ Estudando Java através da **Maratona Java Virado no Jiraya (DevDojo)**.
-- 🏦 Experiência prática no setor bancário (atendimento ao cliente Banco do Brasil).
-- 🎯 Em busca da primeira oportunidade como **Desenvolvedor Júnior Java**.
+- 🎓 **Cursando ADS** na UniCesumar (Previsão: 07/2026)
+- ☕ **Estudando Java** através da Maratona Java Virado no Jiraya (DevDojo)
+- 🏦 **Experiência prática** no setor bancário (atendimento ao cliente Banco do Brasil)
+- 🎯 Em busca da primeira oportunidade como **Desenvolvedor Júnior Java**
 
 ---
 
@@ -20,7 +20,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e focado em me 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-*Estudando: Programação Orientada a Objetos, Estrutura de dados, Clean Code*
+**Estudando:** Programação Orientada a Objetos, Estrutura de dados, Clean Code
 
 ---
 
