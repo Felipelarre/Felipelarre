@@ -24,7 +24,7 @@ Sou desenvolvedor front-end freelancer, com foco em negócios locais, e curso An
 - CSS3
 - JavaScript (Vanilla)
 
-Ferramentas: Git, GitHub e Netlify.
+Ferramentas: VS Code · Git · GitHub · Netlify
 
 ## O que eu faço
 
