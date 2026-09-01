@@ -1,42 +1,50 @@
-# Olá, eu sou o Felipe Larré! 👋
+# Felipe Larré — Desenvolvedor Front-End Freelancer
 
-Desenvolvedor Full Stack em formação | Foco em sites e apps para pequenos negócios e empreendedores.
-
----
-
-## 🚀 Sobre mim
-
-- 🎓 Cursando ADS na UniCesumar (conclusão: 07/2026)
-- 💻 Stack atual: React, Node.js, React Native, TypeScript, HTML5, CSS3, JavaScript
-- 🧠 Aprendendo com projetos reais — atualmente desenvolvendo um app completo de pizzaria (React Native + Node.js)
-- 🏆 Mais de 10 anos em vendas e atendimento ao cliente — sei o que o dono de negócio precisa
-- 🎯 Objetivo: atender pequenas empresas com soluções digitais completas (site, app e sistema)
+Crio sites para pequenos e médios negócios locais — pousadas, restaurantes, clínicas, salões, comércio de bairro. Sites simples, rápidos e fáceis de manter, feitos para trazer clientes e passar confiança.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- Desenvolvedor front-end freelancer, com foco em negócios locais.
+- Cursando Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar — conclusão prevista para 07/2026.
+- Mais de 10 anos trabalhando com vendas e atendimento ao cliente antes de migrar para a área de desenvolvimento.
+- Por causa dessa experiência, entendo a rotina e as dúvidas de quem toca um pequeno negócio: o que o cliente final procura, o que gera contato e o que só atrapalha. A conversa não fica presa só no lado técnico.
 
 ---
 
-## 📌 Projetos
+## Stack
 
-- 🍕 **App de Pizzaria** — sistema completo com React Native (mobile) + Node.js (back-end) — *em desenvolvimento*
-- 🌐 **Portfólio de sites** — projetos para pequenos negócios — *em breve*
+Trabalho hoje com o essencial da web, sem framework:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript** (puro / vanilla)
+
+Ferramentas: Git, GitHub e Netlify para versionamento e publicação.
+
+Não uso React, Vue, Angular, Node.js, React Native nem TypeScript no momento. Prefiro entregar o que domino bem: sites estáticos leves, que carregam rápido, funcionam no celular e o dono consegue entender.
 
 ---
 
-## 📫 Contato
+## O que eu faço
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-larré/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.larre7@gmail.com)
+- Sites institucionais e landing pages para negócios locais.
+- Layout responsivo (funciona bem no celular, que é de onde vem a maior parte das visitas).
+- Textos e estrutura pensados para o cliente encontrar telefone, endereço, cardápio ou horário sem esforço.
+- Publicação, domínio e ajustes depois da entrega.
+
+---
+
+## Projetos
+
+- **Portfólio pessoal** — https://felipe-larre-portfolio.netlify.app
+- **Perfeitta Moda Feminina** — site institucional de uma loja de moda feminina no Centro de Paulista-PE — https://perfeitta-site.netlify.app
+- **Seu Antônio** — site de um bar e petiscaria no Janga, Paulista-PE — https://seu-antonio-janga.netlify.app
+
+---
+
+## Contato
+
+- E-mail: felipe.larre7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/felipe-larre
