@@ -1,8 +1,10 @@
-# Felipe Larré
+# Felipe Larré — Desenvolvedor Front-End Freelancer
 
-**Desenvolvedor Front-End Freelancer**
+> Sites profissionais, rápidos e responsivos para negócios locais.
 
-Desenvolvo sites rápidos, responsivos e fáceis de manter para pequenos e médios negócios locais.
+Crio sites profissionais para pequenos e médios negócios locais — pousadas, restaurantes, clínicas, salões, lojas e outros negócios que precisam de uma presença digital clara e confiável.
+
+Meu foco é desenvolver sites rápidos, responsivos e fáceis de manter, com uma estrutura pensada para que o cliente encontre rapidamente o que procura: telefone, endereço, serviços, cardápio ou horário de funcionamento.
 
 [Portfólio](https://felipe-larre-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/felipe-larre) · [E-mail](mailto:felipe.larre7@gmail.com)
 
@@ -10,17 +12,13 @@ Desenvolvo sites rápidos, responsivos e fáceis de manter para pequenos e médi
 
 ## Sobre mim
 
-Antes de programar, passei mais de 10 anos trabalhando com vendas e atendimento ao cliente. Isso mudou a forma como eu encaro o desenvolvimento: antes do código, penso no negócio do cliente, em quem vai abrir o site e no que essa pessoa precisa achar rápido — um telefone, um endereço, um cardápio, um horário de funcionamento.
+Antes de trabalhar com desenvolvimento, passei mais de 10 anos com vendas e atendimento ao cliente. Isso influencia a forma como penso cada projeto: não olho só para o código, mas também para o negócio, para o usuário e para o objetivo da página.
 
-Meu trabalho é ligar essas pontas. O dono do negócio tem uma ideia do que quer transmitir, o cliente final tem uma necessidade concreta, e o site precisa resolver os dois lados sem complicação.
+Essa experiência ajuda a entender as dúvidas e as necessidades de quem toca um pequeno negócio — o que precisa ficar visível, o que gera contato e o que só atrapalha.
 
-Atendo principalmente pousadas, restaurantes, clínicas, salões, lojas, comércios locais e profissionais autônomos.
-
-Estou cursando Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar, com conclusão prevista para 2027.
+Sou desenvolvedor front-end freelancer, com foco em negócios locais, e curso Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar, com conclusão prevista para 2027.
 
 ## Stack
-
-Trabalho com o essencial da web, sem framework:
 
 - HTML5
 - CSS3
@@ -31,21 +29,24 @@ Ferramentas: Git, GitHub e Netlify.
 ## O que eu faço
 
 - Sites institucionais e landing pages
-- Layout responsivo, testado no celular
-- Organização do conteúdo para o visitante encontrar o que procura
-- Publicação, hospedagem e configuração de domínio
-- Ajustes e manutenção depois da entrega
+- Sites para negócios locais
+- Layout responsivo
+- Estrutura de conteúdo pensada para facilitar o contato
+- Publicação e configuração
+- Domínio e hospedagem quando necessário
+- Ajustes e manutenção após a entrega
 
 ## Projetos
 
-Meu portfólio reúne os projetos publicados até agora, cada um com link para o site no ar:
+Veja os projetos publicados no meu portfólio:
 
 **[felipe-larre-portfolio.netlify.app](https://felipe-larre-portfolio.netlify.app)**
 
+---
+
 ## Contato
 
-Se você tem um negócio e precisa de um site — ou quer refazer o que já tem — me manda uma mensagem. Podemos conversar sobre o projeto sem compromisso.
+Se você tem um negócio e precisa de um site — novo ou uma reformulação do atual — me manda uma mensagem.
 
 - E-mail: felipe.larre7@gmail.com
 - LinkedIn: https://www.linkedin.com/in/felipe-larre
-- Portfólio: https://felipe-larre-portfolio.netlify.app
